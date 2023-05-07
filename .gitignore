@@ -1,0 +1,16 @@
+.env
+.venv
+poetry.lock
+venv/
+ENV/
+env/
+**/__pycache__/**
+src/data/*
+
+.pytest_cache
+.coverage
+
+.DS_Store
+.idea/*
+.python-version
+.vscode/*
